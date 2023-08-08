@@ -8,4 +8,7 @@ $(document).ready(function() {
     $('#global-footer').load('footer.html', function() {
         // Footer loaded callback, if needed
     });
+    
+    // 'js/mian.js'
+
 });
