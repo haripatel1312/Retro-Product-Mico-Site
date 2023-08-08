@@ -194,7 +194,7 @@ footer > p
 {
     
     transition: 0.5s;
-   font-size: 15px;
+font-size: 15px;
    text-decoration: none;
    background-color: transparent;
    color: white;
